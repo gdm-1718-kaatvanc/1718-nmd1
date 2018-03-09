@@ -1,0 +1,22 @@
+.cv{
+    font-family: 'Raleway', sans-serif;
+    
+}
+
+h1{
+font-family: 'Julius Sans One', sans-serif;
+text-align: center;
+color: rgb(75, 46, 92);
+}
+
+h2{
+color:  rgb(75, 46, 92);
+font-family: 'Julius Sans One', sans-serif;
+
+}
+
+
+body{
+    background-color: rgb(214, 200, 223);
+    margin-left: 50px;
+}
